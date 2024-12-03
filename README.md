@@ -1,4 +1,4 @@
-# Hello World! I'm Saba,Georgian Web Developer 👋
+# Hello World! I'm Saba, Georgian Web Developer 👋
 👨‍💻 Currently working on my portfolio.<br>🎓 Studying at Re:educate and expanding skills in modern web technologies.<br>🚀 Always eager to learn, improve, and create something amazing!
 
 
