@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Saba Pailodze, Front End Web Developer.
 
-👨‍💻 Currently Working at A ticketing and event sales platform called TIKSIT.
+👨‍💻 Currently Working at A ticketing and event sales platform called TIKSIT. <br>
 🚀 Passionate about clean code, design systems, and building products that make an impact.  
 🧠 Eager to grow every day as a developer and as a person.
 
