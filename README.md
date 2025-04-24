@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Saba Pailodze, Front End Web Developer.
 
-👨‍💻 Currently Working at A ticketing and event sales platform called TIKSIT. <br>
+👨‍💻 Currently Working at a ticketing and event sales platform called TIKSIT. <br>
 🚀 Passionate about clean code, design systems, and building products that make an impact.  
 🧠 Eager to grow every day as a developer and as a person.
 
@@ -8,7 +8,7 @@
 
 ## 💼 Current Projects
 
-- 🔧 **[TIKSIT](https://tiksit.com/)** – A ticketing and event sales platform where I contribute via Pull Requests and help build the core features.
+- 🔧 **[TIKSIT](https://tiksit.com/)** – I'm working as a Front-End Developer at TIKSIT, a ticketing and event sales platform.
 - 🧱 **[KOLKHISEA](https://kolkhisea.vercel.app/)** – A website for a developer construction company. I'm actively developing the frontend and collaborating on design and functionality.
 - 🌐 **Portfolio Projects** – Available here on my GitHub, showcasing React, Next.js, and Tailwind CSS expertise.
 
