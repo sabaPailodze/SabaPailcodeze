@@ -1,7 +1,6 @@
-# 👋 Hello World! I'm Saba Pailodze, Georgian Web Developer
+# 👋 Hello World! I'm Saba Pailodze, Front End Web Developer.
 
 👨‍💻 Currently Working at A ticketing and event sales platform called TIKSIT.
-🎓 Student at **Re:educate Bootcamp**, continuously expanding my skills in modern web technologies.  
 🚀 Passionate about clean code, design systems, and building products that make an impact.  
 🧠 Eager to grow every day as a developer and as a person.
 
@@ -31,9 +30,10 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SabaPailcodeze&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=SabaPailcodeze&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SabaPailcodeze&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sabaPailodze&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=sabaPailodze&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabaPailodze&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
