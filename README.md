@@ -10,7 +10,8 @@
 
 - 🔧 **[TIKSIT](https://tiksit.com/)** – I'm working as a Front-End Developer at TIKSIT, a ticketing and event sales platform.
 - 🧱 **[KOLKHISEA](https://kolkhisea.vercel.app/)** – A website for a developer construction company. I'm actively developing the frontend and collaborating on design and functionality.
-- 🌐 **[Portfolio Website](portfolio-website-sand-ten-96.vercel.app/](https://portfolio-website-sand-ten-96.vercel.app/))** – Here is my portfolio website.
+- 🌐 **[Portfolio Website](https://portfolio-website-sand-ten-96.vercel.app/)** – Here is my portfolio website.
+
 
 ---
 
